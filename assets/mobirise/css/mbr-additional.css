@@ -710,10 +710,15 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-saSlvkZnOW {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/img-7501-1968x550.png");
+}
 .cid-saS65XDAgm {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/img-7498-2000x1125.png");
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
 .cid-saS65XDAgm P {
   color: #767676;
