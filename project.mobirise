@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Testing For HTML",
+    "name": "ETS Resources",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -42,13 +42,20 @@
     ],
     "imageResize": true,
     "uniqCompNum": 14,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "favicon": "@PROJECT_PATH@/assets/images/dilbeck-favicon-16x16-16x16.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Dilbeck ETS Resources",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
